@@ -1,0 +1,7 @@
+.first_deco{
+    position: absolute;
+    left: 360px;
+    width: 500px;
+    height: auto;
+    pointer-events: none;
+}
